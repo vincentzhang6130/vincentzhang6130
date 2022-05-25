@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am Vincent Zhang👋
 
 <!--
 **vincentzhang6130/vincentzhang6130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- :school: I am working towards my master's degree in National Central University CSIE in Taiwan.
+- 👀 Interested in Linux operating system & Deep Learning & Computer Vision.
+- :rocket: Enthusiast of Python and C language.
