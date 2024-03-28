@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👀 I’m interested in Linux Kernel, ARM,  Deep Learning, Computer Vision.
-
+- 👀 I’m interested in Digital IC Verification, Linux Kernel, ARM,  Deep Learning, Computer Vision.
+- 🌱 I’m currently learning UVM.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=vincentzhang6130&theme=algolia&show_icons=true)](https://github.com/vincentzhang6130/github-readme-stats)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vincentzhang6130&layout=compact&theme=algolia&show_icons=true)](https://github.com/vincentzhang6130/github-readme-stats) -->
